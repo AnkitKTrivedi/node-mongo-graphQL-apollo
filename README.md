@@ -16,3 +16,6 @@
 * Add your mongoDB URI(DB url) in initiateMongoServer.js file
 * Then use: `npm run start` to start the server at http://localhost:4200/
 * That's it! That was fast enough, right? 🚀
+
+  <img width="952" alt="image" src="https://github.com/AnkitKTrivedi/node-mongo-graphQL-apollo/assets/38967951/c299bf5e-ef13-4d08-a9d2-4bf21c075677">
+
