@@ -1,0 +1,23 @@
+{
+  "name": "express-mongo-graphql-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.7.1",
+    "@graphql-tools/load-files": "^7.0.0",
+    "@graphql-tools/merge": "^9.0.0",
+    "dotenv": "^16.0.3",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.2.0"
+  },
+  "type": "module"
+}
